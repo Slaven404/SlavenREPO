@@ -1,0 +1,9 @@
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\bin\Debug\StudentData.dll
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\bin\Debug\StudentData.pdb
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\bin\Debug\Dapper.dll
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\bin\Debug\Dapper.xml
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\obj\Debug\StudentData.csprojAssemblyReference.cache
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\obj\Debug\StudentData.csproj.CopyComplete
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\obj\Debug\StudentData.dll
+C:\Users\Slaven\source\repos\ZadatakStudenti\StudentData\obj\Debug\StudentData.pdb

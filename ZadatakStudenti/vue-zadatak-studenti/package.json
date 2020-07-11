@@ -1,0 +1,47 @@
+{
+  "name": "vue-zadatak-studenti",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^1.10.0",
+    "auth0-js": "^9.13.4",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "bourbon": "^7.0.0",
+    "core-js": "^3.6.5",
+    "jwt-decode": "^2.2.0",
+    "rxjs": "^6.6.0",
+    "vee-validate": "^3.3.7",
+    "vue": "^2.6.11",
+    "vue-authenticate": "^1.4.1",
+    "vue-class-component": "^7.2.3",
+    "vue-cookies": "^1.7.0",
+    "vue-property-decorator": "^8.4.2",
+    "vue-router": "^3.2.0",
+    "vue-rx": "^6.2.0",
+    "vue-simple-alert": "^1.1.1",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.33.0",
+    "@typescript-eslint/parser": "^2.33.0",
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-plugin-router": "~4.4.0",
+    "@vue/cli-plugin-typescript": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "@vue/eslint-config-typescript": "^5.0.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "typescript": "~3.9.3",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
